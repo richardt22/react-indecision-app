@@ -5,6 +5,7 @@ import App from './App';
 import IndecisionApp from './components/IndecisionApp';
 import './styles/styles.scss'
 import * as serviceWorker from './serviceWorker';
+import 'normalize.css/normalize.css'
 
 ReactDOM.render(<IndecisionApp />, document.getElementById('app'));
 
