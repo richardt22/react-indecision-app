@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-indecision-app/static/css/main.a5257938.chunk.css",
+    "main.js": "/react-indecision-app/static/js/main.2301e2d8.chunk.js",
+    "main.js.map": "/react-indecision-app/static/js/main.2301e2d8.chunk.js.map",
+    "runtime~main.js": "/react-indecision-app/static/js/runtime~main.cd4012e0.js",
+    "runtime~main.js.map": "/react-indecision-app/static/js/runtime~main.cd4012e0.js.map",
+    "static/js/2.3a1fd168.chunk.js": "/react-indecision-app/static/js/2.3a1fd168.chunk.js",
+    "static/js/2.3a1fd168.chunk.js.map": "/react-indecision-app/static/js/2.3a1fd168.chunk.js.map",
+    "index.html": "/react-indecision-app/index.html",
+    "precache-manifest.c12fd6cb6659102cbcbf5ae1d309ba45.js": "/react-indecision-app/precache-manifest.c12fd6cb6659102cbcbf5ae1d309ba45.js",
+    "service-worker.js": "/react-indecision-app/service-worker.js",
+    "static/css/main.a5257938.chunk.css.map": "/react-indecision-app/static/css/main.a5257938.chunk.css.map"
+  }
+}
